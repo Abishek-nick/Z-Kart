@@ -1,0 +1,5 @@
+Category Brand Model Price Stock
+Mobile Apple 6S 60000 10
+Mobile Motorola G 12000 5
+Laptop HP Elite 56000 20
+Tablet Google ChromeBook 8000 12
